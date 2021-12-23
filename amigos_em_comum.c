@@ -55,5 +55,5 @@ int main() {
             printf("%d ", listaMutual[i]);
         }
     }
-
+     return 0;
 }
