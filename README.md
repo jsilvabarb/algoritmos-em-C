@@ -1,5 +1,9 @@
 # algoritmos-em-C
- Neste repositório estão meus algorítmos escritos em C, linguagem que estudei no primeiro termo da faculdade.
+ Neste repositório estão meus algorítmos escritos em C, linguagem que utilizo para escrever códigos para treinar lógica 
+ de Programação.
 
- Todos os códigos possuem descrições em seus cabeçalhos identificando a função de cada um.
+ Para executar os códigos você precisa ter o gcc instalado assim, basta dar o comando:
+
+`1 - gcc arquivo.c -o arquivo`
+`2 - ./arquivo`
  
