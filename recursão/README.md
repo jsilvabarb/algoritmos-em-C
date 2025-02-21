@@ -28,7 +28,7 @@ int factorial (int n) {
 No exemplo acima ocorrerá um empilhamento de chamadas à função `factorial`, até o caso base de `n == 1 || n == 0` ser alcançado:
 
  |factorial(5) | factorial(4) | factorial(3) | factorial(2) | factorial(1) | chamadas |
- --------------------------------------------------------------------------------------
+ |-------------|--------------|--------------|--------------|--------------|----------|
  |  5 * 24     |   4 * 6      |    3 * 2     |      2 * 1   |         1    | retorno  |
 
 
