@@ -8,15 +8,15 @@
 2 - ./arquivo
 ```
 
-## Tarefas
+### Tarefas
 
 Nesta pasta estão os primeiros algoritmos que comecei a desenvolver, acesse por [aqui](tarefas/).
 
-## Recursão
+### Recursão
 
-Aqui você encontrará problemas que resolvi com o conceito de recursão,  acesse por [aqui](recursão/).
+Aqui você encontrará problemas que resolvi aplicando o conceito de recursividade,  acesse por [aqui](recursão/).
 
-## Diversos
+### Diversos
 
 Aqui estão problemas diversos solucionados em c, acesse por [aqui](diversos/).
 
