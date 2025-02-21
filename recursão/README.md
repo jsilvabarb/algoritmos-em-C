@@ -1,6 +1,6 @@
-### Problemas de recursividade 
+## Problemas de recursividade 
 
-## O que é uma função recursiva?
+### O que é uma função recursiva?
 
 Uma função recursiva é aquela que chama a si mesma até atingir o caso base. Um problema que ilustra bem a recursividade é o cálculo de um fatorial.
 Por definição temos que:
@@ -32,16 +32,16 @@ No exemplo acima ocorrerá um empilhamento de chamadas à função `factorial`, 
  |  5 * 24     |   4 * 6      |    3 * 2     |      2 * 1   |         1    | retorno  |
 
 
-## Qual a motivação para usarmos esse conceito de programação?
+### Qual a motivação para usarmos esse conceito de programação?
 Funções recursivas são úteis pelo fato de simplificarem a solução de problemas que podem ser divididos em partes menores, como cálculo de fatorial, ordenação ou busca em árvores entre outros.
 
-## Desvantagens
+### Desvantagens
 Uso excessivo de memória, já que muitas chamadas recursivas podem causar erros de memória.
 
-## Conlusão
+### Conlusão
 - A função recursiva chama a si mesma;
 - Toda função recursiva precisa de um caso base;
 - Funções recursivas são ótimas para problemas do tipo: Dividir para conquistar.
 - Devemos ter cuidado para não causar problemas de memória.
 
-Fonte: https://issuu.com/franciscomamed/docs/aprendendo_a_programar_na_linguagem tópico 5.7
+**Fonte:** https://issuu.com/franciscomamed/docs/aprendendo_a_programar_na_linguagem **tópico 5.7**
